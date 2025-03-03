@@ -14,10 +14,10 @@ GDP Share by Country 🌎 – Compares GDP contributions of major economies.
 ✔ Country Selection Panel – Focus on specific countries for deeper insights.
 ✔ Multiple Chart Types – Pie charts, bar graphs, and trend lines for better visualization.
 ✔ Unemployment vs. Inflation Analysis – Understand the correlation between economic factors.
-# Files in This Repository
-inflation_employment_dashboard.xlsx → The Excel file containing the dashboard.
-README.md → Project documentation.
-excel_dashboard_image_world_inflation.png → Screenshot of the dashboard.
+# repository structure
+ → Screenshot of the dashboard.
+![excel dashboard image world inflation](https://github.com/user-attachments/assets/40ac242d-6e34-4ca8-b1a4-51575e32ca01)
+
 # How to Use
 Download the inflation_employment_dashboard.xlsx file.
 Open it in Microsoft Excel (2016 or later) for the best experience.
