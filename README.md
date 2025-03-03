@@ -15,6 +15,7 @@ GDP Share by Country 🌎 – Compares GDP contributions of major economies.
 ✔ Multiple Chart Types – Pie charts, bar graphs, and trend lines for better visualization.
 ✔ Unemployment vs. Inflation Analysis – Understand the correlation between economic factors.
 # repository structure
+ dashboard files: https://github.com/raushankr82/-Inflation-Unemployment-Dashboard-project-Excel-/blob/main/Economic%20Indicators%20And%20Inflation%20(%20dashboard)%20nf.xlsx <br/>
  → Screenshot of the dashboard.
 ![excel dashboard image world inflation](https://github.com/user-attachments/assets/40ac242d-6e34-4ca8-b1a4-51575e32ca01)
 
